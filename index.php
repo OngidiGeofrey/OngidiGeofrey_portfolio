@@ -468,7 +468,18 @@
                         <div class="ms-sm-4">
                             <h4 class="mb-3">Web Design</h4>
                             <h6 class="mb-3">Price is negotiable <span class="text-primary"></span></h6>
-                            <span>Stet lorem dolor diam amet vero eos. No stet est diam amet diam ipsum. Clita dolor duo clita sit sed sit dolor eos.</span>
+                            <span>Web apps do not require users to install or update them. 
+                                This saves organizations a lot of administration work. They are good for users who 
+                                have more than one computer, 
+                                as all their data and preferred software can be accessed across multiple devices. 
+                                They are also good for users who have more than one computer, as all their data and 
+                                preferred software is accessible on multiple devices. Web applications have a lot of 
+                                advantages, for example, they don’t require installation and updating which saves a 
+                                lot of administration work for large companies.
+
+Request for a project
+Talk to us about that idea you are having.
+We will work with you all along to transform your idea into an application.</span>
                         </div>
                     </div>
                 </div>
