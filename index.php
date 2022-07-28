@@ -593,7 +593,7 @@
                         <img class="img-fluid rounded" src="img/ever dango developer.png" alt="">
                         <div class="team-text bg-white rounded-end p-4">
                             <div>
-                                <a href="https://github.com/OsirHawa" target="BLA">
+                                <a href="https://github.com/OsirHawa" target="_blank">
                                 <h5>Osir Everline</h5>
                                 <span>Backed web Developer</span>
                                 </a>
@@ -621,8 +621,8 @@
                         <img class="img-fluid rounded" src="img/team-3.jpg" alt="">
                         <div class="team-text bg-white rounded-end p-4">
                             <div>
-                                <h5>Full Name</h5>
-                                <span>Designer</span>
+                                <h5>Bakhuya Milka Wanga</h5>
+                                <span>Front-End Developer</span>
                             </div>
                             <i class="fa fa-arrow-right fa-2x text-primary"></i>
                         </div>
