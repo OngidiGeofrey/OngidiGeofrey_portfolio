@@ -468,20 +468,14 @@
                         <div class="ms-sm-4">
                             <h4 class="mb-3">Web Development</h4>
                             <h6 class="mb-3">Price is negotiable <span class="text-primary"></span></h6>
-                            <span>Web apps do not require users to install or update them. 
-                                This saves organizations a lot of administration work. They are good for users who 
-                                have more than one computer, 
-                                as all their data and preferred software can be accessed across multiple devices. 
-                                They are also good for users who have more than one computer, as all their data and 
-                                preferred software is accessible on multiple devices. Web applications have a lot of 
-                                advantages, for example, they don’t require installation and updating which saves a 
-                                lot of administration work for large companies.
-
+                            <span>Need a system that allows you to work from anywhere? <br>
+                            A system that doesn't require installation and is compatible with all platform? <br>Then you need a web app.
+                            
                                 <h6>Request for a web project</h6> 
                                 Talk to us about that idea you are having.
                                 We will work with you all along to transform your idea into an application.
                                 <div class="col-lg-6 text-lg-end">
-                    <a class="btn btn-primary py-3 px-5" href="">Hire Me</a>
+                    <a class="btn btn-primary py-3 px-5" href="#contact">Hire Me</a>
                 </div>
 
 `                             </span>
