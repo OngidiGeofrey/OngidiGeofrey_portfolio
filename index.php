@@ -65,7 +65,7 @@
             <a href="index.html" class="navbar-brand bg-secondary py-3 px-4 mx-3 d-none d-lg-block">
                 <h1 class="text-primary fw-bold m-0">ONGIDI</h1>
             </a>
-            
+            <div class="navbar-nav me-auto py-0">
                 <a href="#project" class="nav-item nav-link">Projects</a>
                 <a href="#team" class="nav-item nav-link">Team</a>
                 <a href="#testimonial" class="nav-item nav-link">Testimonials</a>
