@@ -602,11 +602,11 @@
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="team-item position-relative">
-                        <img class="img-fluid rounded" src="img/team-2.jpg" alt="">
+                        <img class="img-fluid rounded" src="img/Martin Maina.png" alt="">
                         <div class="team-text bg-white rounded-end p-4">
                             <div>
-                                <h5>Full Name</h5>
-                                <span>Designer</span>
+                                <h5>Martin Maina</h5>
+                                <span>UI/UX designer</span>
                             </div>
                             <i class="fa fa-arrow-right fa-2x text-primary"></i>
                         </div>
