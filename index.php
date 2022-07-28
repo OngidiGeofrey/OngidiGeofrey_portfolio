@@ -580,7 +580,7 @@
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item position-relative">
-                        <img class="img-fluid rounded" src="img/ever-django developer.png" alt="">
+                        <img class="img-fluid rounded" src="img/ever dango developer.png" alt="">
                         <div class="team-text bg-white rounded-end p-4">
                             <div>
                                 <h5>Osir Everline </h5>
