@@ -566,7 +566,7 @@
     <!-- Projects End -->
 
 
-    <!-- Team Start -->
+    <!-- Team Start -->Team
     <div class="container-xxl py-6 pb-5" id="team">
         <div class="container">
             <div class="row g-5 mb-5 wow fadeInUp" data-wow-delay="0.1s">
