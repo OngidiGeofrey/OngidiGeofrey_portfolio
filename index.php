@@ -477,9 +477,14 @@
                                 advantages, for example, they don’t require installation and updating which saves a 
                                 lot of administration work for large companies.
 
-Request for a project
-Talk to us about that idea you are having.
-We will work with you all along to transform your idea into an application.</span>
+                                <h1>Request for a web project</h1> 
+                                Talk to us about that idea you are having.
+                                We will work with you all along to transform your idea into an application.
+                                <div class="col-lg-6 text-lg-end">
+                    <a class="btn btn-primary py-3 px-5" href="">Hire Me</a>
+                </div>
+
+`                             </span>
                         </div>
                     </div>
                 </div>
