@@ -589,35 +589,33 @@
             </div>
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                
                     <div class="team-item position-relative">
                         <img class="img-fluid rounded" src="img/ever dango developer.png" alt="">
                         <div class="team-text bg-white rounded-end p-4">
                             <div>
-                               
+                                <a href="https://github.com/OsirHawa" target="BLA">
                                 <h5>Osir Everline</h5>
                                 <span>Backed web Developer</span>
-                                
+                                </a>
                             </div>
                             <i class="fa fa-arrow-right fa-2x text-primary"></i>
                         </div>
-                    </div></a>
+                    </div>
                 </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                <a href="http://github.com/MartinBilson" target="_blank" rel="noopener noreferrer">
                     <div class="team-item position-relative">
                         <img class="img-fluid rounded" src="img/Martin Maina.png" alt="">
                         <div class="team-text bg-white rounded-end p-4">
                             <div>
 
-                           
+                            <a href="http://github.com/MartinBilson" target="_blank" rel="noopener noreferrer">
                                 <h5>Martin Maina</h5>
-                                <span>UI/UX designer</span>
+                                <span>UI/UX designer</span></a>
                             </div>
                             <i class="fa fa-arrow-right fa-2x text-primary"></i>
                         </div>
                     </div>
-                </div></a>
+                </div>
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item position-relative">
                         <img class="img-fluid rounded" src="img/team-3.jpg" alt="">
