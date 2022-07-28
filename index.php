@@ -466,7 +466,7 @@
                             <i class="fa fa-code fa-2x text-dark"></i>
                         </div>
                         <div class="ms-sm-4">
-                            <h4 class="mb-3">Web Design</h4>
+                            <h4 class="mb-3">Web Development</h4>
                             <h6 class="mb-3">Price is negotiable <span class="text-primary"></span></h6>
                             <span>Web apps do not require users to install or update them. 
                                 This saves organizations a lot of administration work. They are good for users who 
