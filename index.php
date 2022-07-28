@@ -477,7 +477,7 @@
                                 advantages, for example, they don’t require installation and updating which saves a 
                                 lot of administration work for large companies.
 
-                                <h1>Request for a web project</h1> 
+                                <h6>Request for a web project</h6> 
                                 Talk to us about that idea you are having.
                                 We will work with you all along to transform your idea into an application.
                                 <div class="col-lg-6 text-lg-end">
