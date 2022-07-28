@@ -588,7 +588,6 @@
                 </div>
             </div>
             <div class="row g-4">
-            <a href="https://github.com/OsirHawa" target="_blank">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                 
                     <div class="team-item position-relative">
@@ -602,13 +601,10 @@
                             </div>
                             <i class="fa fa-arrow-right fa-2x text-primary"></i>
                         </div>
-                    </div>
+                    </div></a>
                 </div>
-                </a>
-                <a href="http://github.com/MartinBilson" target="_blank" rel="noopener noreferrer">
-
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
-                
+                <a href="http://github.com/MartinBilson" target="_blank" rel="noopener noreferrer">
                     <div class="team-item position-relative">
                         <img class="img-fluid rounded" src="img/Martin Maina.png" alt="">
                         <div class="team-text bg-white rounded-end p-4">
