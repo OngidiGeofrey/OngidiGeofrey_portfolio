@@ -580,11 +580,11 @@
             <div class="row g-4">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item position-relative">
-                        <img class="img-fluid rounded" src="img/team-1.jpg" alt="">
+                        <img class="img-fluid rounded" src="img/ever-django developer.png" alt="">
                         <div class="team-text bg-white rounded-end p-4">
                             <div>
-                                <h5>Full Name</h5>
-                                <span>Designer</span>
+                                <h5>Osir Everline </h5>
+                                <span>Django web Developer</span>
                             </div>
                             <i class="fa fa-arrow-right fa-2x text-primary"></i>
                         </div>
