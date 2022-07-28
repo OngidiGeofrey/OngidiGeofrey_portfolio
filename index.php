@@ -593,8 +593,10 @@
                         <img class="img-fluid rounded" src="img/ever dango developer.png" alt="">
                         <div class="team-text bg-white rounded-end p-4">
                             <div>
-                                <h5>Osir Everline </h5>
-                                <span>Django web Developer</span>
+                                <a href="https://github.com/OsirHawa" target="_blank">
+                                <h5>Osir Everline</h5>
+                                <span>Backed web Developer</span>
+                                </a>
                             </div>
                             <i class="fa fa-arrow-right fa-2x text-primary"></i>
                         </div>
@@ -605,8 +607,10 @@
                         <img class="img-fluid rounded" src="img/Martin Maina.png" alt="">
                         <div class="team-text bg-white rounded-end p-4">
                             <div>
+
+                            <a href="http://github.com/MartinBilson" target="_blank" rel="noopener noreferrer">
                                 <h5>Martin Maina</h5>
-                                <span>UI/UX designer</span>
+                                <span>UI/UX designer</span></a>
                             </div>
                             <i class="fa fa-arrow-right fa-2x text-primary"></i>
                         </div>
