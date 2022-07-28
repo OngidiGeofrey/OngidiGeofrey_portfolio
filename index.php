@@ -547,7 +547,7 @@
                     <div class="portfolio-img rounded overflow-hidden">
                         <img class="img-fluid" src="img/explore_more.png" alt="explore github">
                         <div class="portfolio-btn">
-                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="https://github.com/OngidiGeofrey/VirtualDoctor" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href="https://github.com/OngidiGeofrey" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                             <a class="btn btn-lg-square btn-outline-secondary border-2 mx-1" href=""><i class="fa fa-link"></i></a>
                         </div>
                     </div>
