@@ -12,10 +12,11 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
-
+    
+     <!-- Favicon -->
     <link rel = "icon" href = 
-"img/profile.png" 
-        type = "image/x-icon">
+    "img/profile.png" 
+     type = "image/xpps, the pipelin-ipps, the pipelincon">
 
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
@@ -41,7 +42,7 @@
     <link href="css/style.css" rel="stylesheet">
 </head>
 
-<body data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="51">
+<body data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="51" oncontextmenu="return false">
     <!-- Spinner Start -->
     <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
         <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
