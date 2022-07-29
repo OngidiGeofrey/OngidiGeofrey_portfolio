@@ -13,6 +13,10 @@
     <meta content="" name="keywords">
     <meta content="" name="description">
 
+    <link rel = "icon" href = 
+"img/profile.png" 
+        type = "image/x-icon">
+
     <!-- Favicon -->
     <link href="img/favicon.ico" rel="icon">
 
