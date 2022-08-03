@@ -621,7 +621,6 @@
                         </div>
                     </div>
                 </div>
-                <
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item position-relative">
                         <img class="img-fluid rounded" src="img/kirwaDan.png" alt="">
