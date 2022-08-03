@@ -43,7 +43,7 @@
 </head>
 
 <body data-bs-spy="scroll" data-bs-target=".navbar" data-bs-offset="51" oncontextmenu="return false">
-    <!-- Spinner Start -->
+    <!-- Spinner Sta￼￼rt -->
     <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center">
         <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
             <span class="sr-only">Loading...</span>
@@ -621,18 +621,19 @@
                         </div>
                     </div>
                 </div>
+                <a href="https://bit.ly/danielkirwa">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item position-relative">
-                        <img class="img-fluid rounded" src="img/team-3.jpg" alt="">
+                        <img class="img-fluid rounded" src="img/kirwaDan.png" alt="">
                         <div class="team-text bg-white rounded-end p-4">
                             <div>
-                                <h5>Bakhuya Milka Wanga</h5>
-                                <span>Front-End Developer</span>
+                                <h5>Kirwa Dan/h5>
+                                <span>Full Stack Developer</span>
                             </div>
                             <i class="fa fa-arrow-right fa-2x text-primary"></i>
                         </div>
                     </div>
-                </div>
+                </div></a>
             </div>
         </div>
     </div>
