@@ -658,7 +658,7 @@
                     <div class="owl-carousel testimonial-carousel">
                         <div class="testimonial-item text-center">
                             <div class="position-relative mb-5">
-                                <img class="img-fluid rounded-circle border border-secondary p-2 mx-auto" src="img/testimonial-1.jpg" alt="">
+                                <img class="img-fluid rounded-circle border border-secondary p-2 mx-auto" src="img/Martin Maina.png" alt="">
                                 <div class="testimonial-icon">
                                     <i class="fa fa-quote-left text-primary"></i>
                                 </div>
@@ -670,7 +670,7 @@
                         </div>
                         <div class="testimonial-item text-center">
                             <div class="position-relative mb-5">
-                                <img class="img-fluid rounded-circle border border-secondary p-2 mx-auto" src="img/testimonial-2.jpg" alt="">
+                                <img class="img-fluid rounded-circle border border-secondary p-2 mx-auto" src="img/ever dango developer.png" alt="">
                                 <div class="testimonial-icon">
                                     <i class="fa fa-quote-left text-primary"></i>
                                 </div>
