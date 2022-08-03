@@ -627,7 +627,7 @@
                         <img class="img-fluid rounded" src="img/kirwaDan.png" alt="">
                         <div class="team-text bg-white rounded-end p-4">
                             <div>
-                                <h5>Kirwa Dan/h5>
+                                <h5>Kirwa Dan</h5>
                                 <span>Full Stack Developer</span>
                             </div>
                             <i class="fa fa-arrow-right fa-2x text-primary"></i>
