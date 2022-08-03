@@ -697,8 +697,8 @@
                 </div>
                 <div class="col-lg-3 d-none d-lg-block">
                     <div class="testimonial-right h-100">
-                        <img class="img-fluid wow fadeIn" data-wow-delay="0.1s" src="img/testimonial-1.jpg" alt="">
-                        <img class="img-fluid wow fadeIn" data-wow-delay="0.3s" src="img/testimonial-2.jpg" alt="">
+                        <img class="img-fluid wow fadeIn" data-wow-delay="0.1s" src="img/ever dango developer.png" alt="">
+                        <img class="img-fluid wow fadeIn" data-wow-delay="0.3s" src="img/Martin Maina.png">
                         <img class="img-fluid wow fadeIn" data-wow-delay="0.5s" src="img/kirwaDan.png" alt="">
                     </div>
                 </div>
