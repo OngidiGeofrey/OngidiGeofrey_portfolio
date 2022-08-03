@@ -649,7 +649,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-3 d-none d-lg-block">
                     <div class="testimonial-left h-100">
-                        <img class="img-fluid wow fadeIn" data-wow-delay="0.1s" src="img/testimonial-1.jpg" alt="">
+                        <img class="img-fluid wow fadeIn" data-wow-delay="0.1s" src="img/kirwaDan.png" alt="">
                         <img class="img-fluid wow fadeIn" data-wow-delay="0.3s" src="img/testimonial-2.jpg" alt="">
                         <img class="img-fluid wow fadeIn" data-wow-delay="0.5s" src="img/testimonial-3.jpg" alt="">
                     </div>
@@ -687,10 +687,11 @@
                                     <i class="fa fa-quote-left text-primary"></i>
                                 </div>
                             </div>
-                            <p class="fs-5 fst-italic">Dolores sed duo clita tempor justo dolor et stet lorem kasd labore dolore lorem ipsum. At lorem lorem magna ut et, nonumy et labore et tempor diam tempor erat.</p>
+                            <p class="fs-5 fst-italic">I have known Mr Ongidi as a hardworking , self driven and passionate in what ever he does.He constantly work towards solution provision and technically solving problems with the hights degree
+                            Being an EXellent team player  "He is persistent in solution seaking"</p>
                             <hr class="w-25 mx-auto">
-                            <h5>Client Name</h5>
-                            <span>Profession</span>
+                            <h5>Kirwa Dan</h5>
+                            <span>Full Stack web Developer</span>
                         </div>
                     </div>
                 </div>
