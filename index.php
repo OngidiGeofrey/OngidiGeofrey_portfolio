@@ -682,7 +682,7 @@
                         </div>
                         <div class="testimonial-item text-center">
                             <div class="position-relative mb-5">
-                                <img class="img-fluid rounded-circle border border-secondary p-2 mx-auto" src="img/testimonial-3.jpg" alt="">
+                                <img class="img-fluid rounded-circle border border-secondary p-2 mx-auto" src="img/kirwaDan.png" alt="">
                                 <div class="testimonial-icon">
                                     <i class="fa fa-quote-left text-primary"></i>
                                 </div>
