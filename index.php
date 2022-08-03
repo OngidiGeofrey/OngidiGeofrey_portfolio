@@ -621,19 +621,20 @@
                         </div>
                     </div>
                 </div>
-                <a href="https://bit.ly/danielkirwa">
+                
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item position-relative">
                         <img class="img-fluid rounded" src="img/kirwaDan.png" alt="">
                         <div class="team-text bg-white rounded-end p-4">
                             <div>
+                                <a href="https://bit.ly/danielkirwa">
                                 <h5>Kirwa Dan</h5>
-                                <span>Full Stack Developer</span>
+                                <span>Full Stack Developer</span></a>
                             </div>
                             <i class="fa fa-arrow-right fa-2x text-primary"></i>
                         </div>
                     </div>
-                </div></a>
+                </div>
                
             </div>
         </div>
