@@ -621,7 +621,7 @@
                         </div>
                     </div>
                 </div>
-                <a href="http://bit.ly/danielkirwa" target="_blank" rel="noopener noreferrer">
+                <a href="https://bit.ly/danielkirwa">
                 <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item position-relative">
                         <img class="img-fluid rounded" src="img/kirwaDan.png" alt="">
@@ -633,8 +633,8 @@
                             <i class="fa fa-arrow-right fa-2x text-primary"></i>
                         </div>
                     </div>
-                </div>
-                </a>
+                </div></a>
+               
             </div>
         </div>
     </div>
