@@ -665,8 +665,8 @@
                             </div>
                             <p class="fs-5 fst-italic">Dolores sed duo clita tempor justo dolor et stet lorem kasd labore dolore lorem ipsum. At lorem lorem magna ut et, nonumy et labore et tempor diam tempor erat.</p>
                             <hr class="w-25 mx-auto">
-                            <h5>Client Name</h5>
-                            <span>Profession</span>
+                            <h5>Martin Maina</h5>
+                            <span>UI/UX Designer</span>
                         </div>
                         <div class="testimonial-item text-center">
                             <div class="position-relative mb-5">
@@ -677,8 +677,8 @@
                             </div>
                             <p class="fs-5 fst-italic">Dolores sed duo clita tempor justo dolor et stet lorem kasd labore dolore lorem ipsum. At lorem lorem magna ut et, nonumy et labore et tempor diam tempor erat.</p>
                             <hr class="w-25 mx-auto">
-                            <h5>Client Name</h5>
-                            <span>Profession</span>
+                            <h5>Everline Osir/h5>
+                            <span>Front-End Developer</span>
                         </div>
                         <div class="testimonial-item text-center">
                             <div class="position-relative mb-5">
